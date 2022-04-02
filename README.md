@@ -16,8 +16,8 @@ Feature:  Description
 *	Stock History: Ability to see the Stock History
 *	Checkout:  Ability to Checkout 
 ## Installation:
-*	**Install** Visual Studio 
-*	**Install** SQL management studio 
+*	**Install** Visual Studio 2015
+*	**Install** SQL management studio 2013
 *	**Install** VS Code 
 *	**Install** Octoparse 
 *	**Install** RegEx
